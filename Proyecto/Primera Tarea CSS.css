@@ -1,0 +1,16 @@
+#cabecera{
+    background-color: aqua;
+}
+
+#imagen{
+   width: 500px;
+   height: 100px;
+   float: right;
+   text-align: right;
+}
+
+h2{
+    color: blue;
+}
+    
+
